@@ -1,6 +1,6 @@
 ‌# Table of contents
 
-# 1주차 강의 키워드 정리
+## 1주차 강의 키워드 정리
 
 - [1.1 HTTP의 이해](/1.1_HTTP의-20이해.md)
 - [1.2 HTTP Client](/1.2_HTTP-Client.md)
