@@ -1,12 +1,9 @@
 ‌# Table of contents
 
-## GitBook
+## 1주차 강의 키워드 정리
 
-- [Git Book 가이드](README.md)
-
-- [GitHub과 연동하기](/integration/integration-with-github.md)
-  - [PR 날리기](/integration/pull-request.md)
-
-## 효과적인 학습법
-
-- [미라클 모닝](miracle-morning.md)
+- [1.1 HTTP의 이해](/1.1_HTTP의%20이해.md)
+- [1.2 HTTP Client](/1.2_HTTP%Client.md)
+- [1.3 HTTP Server](/1.3_HTTP%Server.md)
+- [1.4 Java HTTP Server](/1.4_Java%HTTP%Server.md)
+- [1.5 Spring Web MVC](/1.5_Spring%Web%MVC.md)
