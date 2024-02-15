@@ -10,10 +10,15 @@
 
 ## Week 2
 
-- [2.1 HTTP의 이해](/week2/2.1_REST_API.md)
-- [2.2 HTTP Client](/week2/2.2_URI_MIME_type.md)
-- [2.3 HTTP Server](/week2/2.3_Collection_Pattern1.md)
-- [2.4 Java HTTP Server](/week2/2.4_Collection_Pattern2.md)
-- [2.5 Spring Web MVC](/week2/2.5_Spring-Web-MVC-Impl.md)
+- [2.1 REST API](/week2/2.1_REST_API.md)
+- [2.2 URI & MIME Type](/week2/2.2_URI_MIME_type.md)
+- [2.3 Collection Pattern](/week2/2.3_Collection_Pattern1.md)
+- [2.4 Collection Pattern 활용](/week2/2.4_Collection_Pattern2.md)
+- [2.5 Spring Web MVC 구현하기](/week2/2.5_Spring-Web-MVC-Impl.md)
 
 ## Week 3
+
+- [3.1 DTO](/week3/3.1_DTO.md)
+- [3.2 Serialization - 직렬화](/week3/3.2_Serialization.md)
+- [3.3 Jackson ObjectMapper](/week3/3.3_Jackson_ObjectMapper.md)
+- [3.4 CORS](/week3/3.4_CORS.md)
